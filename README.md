@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;AI%2FML+Enthusiast;B.Tech+CSE+%40+NIT+Srinagar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Engineer;AI%2FML+Enthusiast;B.Tech+CSE+%40+NIT+Srinagar)](https://git.io/typing-svg)
 
 </div>
 
@@ -99,9 +99,8 @@ Amazon-like e-commerce frontend with dynamic cart and checkout system.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sonuyadav97297@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sonu-yadav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-yadav-577878268/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raos0nu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
 
